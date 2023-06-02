@@ -1,6 +1,6 @@
 
-# **Project: **
-# **Expel Pigeons with AI Drone - Using CNN and OpenCV** 
+# **Project: CNN and OpenCV in Real Time**
+# **Expel Pigeons with AI Drone** 
 
 In this project we implements **Movements Detection**, **Object Detection** and **Object Tracking** algorithm. 
 We do it by recognize movement in the frame, detect the object and tracking after it in real time from camera. 
