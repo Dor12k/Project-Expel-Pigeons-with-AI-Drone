@@ -38,6 +38,7 @@ The application display one window divided to six screens:
   
 The application using **TensorFlow** with **Keras** by **Python**.
 
+**soon**
 Let's see a short video of our application:
 
 
