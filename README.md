@@ -39,20 +39,16 @@ The application display one window divided to six screens:
 The application using **TensorFlow** with **Keras** by **Python**.
 
 
-.
-.
-.
-
-**Will update soon**
-
 Let's see a short video of our application:
 
-
-
+https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/3835f993-fe59-46e4-b915-d71963e27a46
 
 
 Example of folder with the saved frames from detection event:
  
- 
+ ![Preview Folder](https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/76440b46-4d9d-4e74-8c4b-1050e967fd2b)
+
 
 Example of the text file with detections events and application information:
+
+![Preview Text](https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/cc841dd5-6f70-4c12-a33e-c86ed5a09f20)
