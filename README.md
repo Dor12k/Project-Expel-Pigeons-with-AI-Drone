@@ -41,7 +41,7 @@ The application using **TensorFlow** with **Keras** by **Python**.
 
 Let's see a short video of our application:
 
-https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/f24961ee-f623-4944-ace2-35c3c477c121
+https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/a852af70-bcc8-4bc4-b4ee-435e4684a480
 
 
 
