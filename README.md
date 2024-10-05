@@ -3,16 +3,17 @@
 
 ## **Expel Pigeons with AI Drone** 
 
-In this project, we implement algorithms for Movement Detection, Object Detection, and Object Tracking. Our system recognizes movement in video frames, detects objects, and tracks them in real-time using a camera. 
-We utilize the ResNet50 model with Transfer Learning techniques on the CIFAR-10 dataset, achieving an accuracy of 95%.
-
+In this project, we implement algorithms for **Movement Detection**, **Object Detection**, and **Object Tracking**. <br>
+Our system recognizes movement in video frames, detects objects, and tracks them in real-time using a camera. <br>
+We utilize the **ResNet50** model with **Transfer Learning** techniques on the **CIFAR-10** dataset, achieving an **accuracy of 95%**.
+<br>
 ### Project Overview
 
-**Part 1 - Deep Learning:**
+**Part 1 - Deep Learning:** <br>
 The first phase of this project focuses on **Deep Learning**, specifically **Convolutional Neural Networks** and related topics such as **Overfitting**, **Transfer Learning** (including **Feature Extraction** and **Fine Tuning**), and importing datasets from binary files.
 
 
-**Part 2 - Computer Vision:**
+**Part 2 - Computer Vision:** <br>
 The second phase involves **Computer Vision**, leveraging libraries such as **OpenCV**, **NumPy**, and **h5py**.
 
 ### Model Selection
@@ -31,12 +32,12 @@ User Interface
 
 The application consists of a window divided into six screens:
 
-  1. **Main Frame:** Displays the live camera feed.
-  2. **Information Frame:** Contains detection event summaries and application details.
-  3. **Tracking Frame:** Shows the object’s coordinates, confidence score, prediction time, and frames per second (FPS).
-  4. **Drone Camera Frame:** Displays the drone's camera feed along with its speed, angle, and battery status.
-  5. **Scores Frame:** Lists the scores for each detected label.
-  6. **Drone Radar:** Synchronizes with the drone's movements and distance.
+  1. **Main Frame:** Displays the live camera feed. <br>
+  2. **Information Frame:** Contains detection event summaries and application details. <br>
+  3. **Tracking Frame:** Shows the object’s coordinates, confidence score, prediction time, and frames per second (FPS). <br>
+  4. **Drone Camera Frame:** Displays the drone's camera feed along with its speed, angle, and battery status. <br>
+  5. **Scores Frame:** Lists the scores for each detected label. <br>
+  6. **Drone Radar:** Synchronizes with the drone's movements and distance. <br>
 
 The application utilizes **TensorFlow** with **Keras** in **Python**.
 
